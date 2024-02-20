@@ -14,6 +14,7 @@ const Navbar = () => {
         {link: "Feature", path: "feature"},
         {link: "About", path: "about"},
         {link: "Pricy", path: "pricing"},
+        {link: "Contact", path: "pricing"},
         
     ]
     return (
