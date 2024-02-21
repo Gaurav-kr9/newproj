@@ -16,7 +16,7 @@ const Navbar = () => {
         {link: "Pricy", path: "pricing"},
         {link: "Contact", path: "pricing"},
         {link: "New branch", path: "pricing"},
-        // {link: "New branch 2", path: "pricing"},
+        {link: "New branch 2", path: "pricing"},
 
         
     ]
