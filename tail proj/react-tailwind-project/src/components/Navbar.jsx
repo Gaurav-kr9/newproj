@@ -14,6 +14,7 @@ const Navbar = () => {
         {link: "Future", path: "feature"},
         {link: "About", path: "about"},
         {link: "Pricing", path: "pricing"},
+        {link: "SigIn", path: "sigin"},
     ]
     return (
    <>
