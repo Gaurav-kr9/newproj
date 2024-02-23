@@ -10,7 +10,7 @@ const Navbar = () => {
         setIsMenuOpen(!isMenuOpen);
     }
     const navItems = [
-        {link: "Over", path: "home"},
+        {link: "Overview", path: "home"},
         {link: "Feature", path: "feature"},
         {link: "About", path: "about"},
         {link: "Pricing", path: "pricing"},
